@@ -89,7 +89,7 @@
 #note small {
     position: relative;
     display: inline-block;
-    animation: mymove 18s infinite;
+    animation: mymove 20s infinite;
     animation-timing-function: all;
 }
 
